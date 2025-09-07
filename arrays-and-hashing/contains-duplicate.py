@@ -25,7 +25,7 @@ def containsDuplicate(self, nums: List[int]) -> bool:
 '''
 n: len(nums)
 
-Time Complexity: O(n) [single for loop]
+Time Complexity: O(n) [single non-nested for loop]
 
 Space Complexity: O(n) [len(numset) <= n]
 '''
