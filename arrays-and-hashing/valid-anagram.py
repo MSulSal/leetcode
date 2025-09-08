@@ -25,5 +25,5 @@ def isAnagram(s: str, t: str) -> bool:
 '''
 
 Time Complexity: O(n) [two non-nested for loops]
-Space Complexity: O(1) [len(character_counts) == 26]
+Space Complexity: O(1) [len(character_counts.items()) == 26]
 '''
